@@ -1,0 +1,149 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+ 
+}
+
+#alphaA {
+  display: flex;
+  flex-direction: row;
+  width: 150px;
+  height: 150px;
+  font-size: 8em;
+  text-align: center;
+  border-radius: 15px;
+  gap: 20PX;
+  justify-content: center;
+
+ 
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.container-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  object-fit: contain;
+  object-position: top;
+  
+}
+
+.contents-box {   
+  width: 600px;
+  height: 800px;
+  margin-top: 200px;  
+  border: 4px solid black;
+  border-radius: 14px; 
+ 
+
+ 
+}
+
+p {
+  text-align: center;
+  font-size: 100px;
+  object-position: bottom;
+}
+
+.a {
+  background-color: orange;  
+}  
+
+.b {
+background-color: lightblue; 
+}
+.c {
+  background-color: red; 
+}
+.d {
+background-color: yellow;
+}  
+.e {
+  background-color: gold;  
+}  
+
+.f {
+background-color: tomato; 
+}
+.g {
+  background-color: violet 
+}
+.h {
+background-color: navy;
+color: white;
+
+}  
+.i {
+  background-color: rgb(225, 192, 131);  
+}  
+
+.j {
+background-color: rgb(165, 221, 240); 
+}
+.k {
+  background-color: rgb(227, 152, 152); 
+}
+.l{
+background-color: rgb(133, 133, 8);
+color: white;
+}  
+
+
+.m {
+  background-color: orange;  
+}  
+
+.n {
+background-color: rgb(171, 237, 171); 
+}
+.o {
+  background-color: orange; 
+}
+.p {
+background-color: olive;
+color: white;
+}  
+.q {
+  background-color: pink;  
+}  
+
+.r {
+background-color: plum; 
+}
+.s {
+  background-color: purple;
+  color: white;
+}
+.t {
+background-color: lawngreen;
+
+}  
+.u {
+  background-color: rgb(225, 192, 131);  
+}  
+
+.v {
+background-color: magenta; 
+}
+.w {
+  background-color: mediumvioletred; 
+}
+.x {
+background-color: mediumslateblue;
+color:white;
+}  
+
+.y {
+  background-color:lemonchiffon; 
+}
+.z {
+background-color:peachpuff ;
+}  
+
+

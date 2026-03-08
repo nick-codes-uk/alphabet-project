@@ -1,0 +1,73 @@
+h1 {
+  height: 150px;
+  font-size: 100px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  
+}
+
+.colour {
+  background-color: red; 
+  color: white; 
+  height: 150px;
+  width: 150px;  
+  border-radius: 50px;
+  margin: 10px;
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 50px;
+}
+
+
+.which-number {
+  display: flex;
+  gap: 10em;
+  text-align: center;
+} 
+  
+  .goto-page1 {
+  height: 150px;
+  width: 500px;
+  background-color: lightblue;
+  font-size: 100px;
+  text-align: center;
+  margin-right: 50px;
+}
+
+.random-num { 
+  height: 150px;
+  width: 900px;
+  background-color: lightgreen;
+  font-size: 70px; 
+}
+
+.num-container {
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  background-color: rgb(206, 182, 229);
+}
+
+.the-num {
+  padding-top: 10px;
+  font-size: 100px;
+  text-align: center;
+ 
+}
+
+.numberContainer {  
+  font-size: 150px;
+  column-gap: 200px;
+  margin: 100px;  
+  display:flex;
+  flex-wrap: wrap; 
+ 
+}
+
+
+.number {
+  font-size: 1.2em;
+  font-weight: bold;
+  background-color: blueviolet;
+}
